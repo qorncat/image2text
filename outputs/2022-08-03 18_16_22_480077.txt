@@ -1,0 +1,105 @@
+8 image files found.
+******************************************
+resim2 copy 2.png,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=600x700 at 0x28802D71960>
+
+
+3,
+
+KEEP
+CALM
+
+AND
+merhaba
+nasilsin ?
+
+******************************************
+resim2 copy 3.png,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=600x700 at 0x2880CA8A770>
+
+
+3,
+
+KEEP
+CALM
+
+AND
+merhaba
+nasilsin ?
+
+******************************************
+resim2 copy 4.png,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=600x700 at 0x2880CA8AB00>
+
+
+3,
+
+KEEP
+CALM
+
+AND
+merhaba
+nasilsin ?
+
+******************************************
+resim2 copy 5.png,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=600x700 at 0x2880CA8B580>
+
+
+3,
+
+KEEP
+CALM
+
+AND
+merhaba
+nasilsin ?
+
+******************************************
+resim2 copy 6.png,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=600x700 at 0x2880CA8BEB0>
+
+
+3,
+
+KEEP
+CALM
+
+AND
+merhaba
+nasilsin ?
+
+******************************************
+resim2 copy 7.png,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=600x700 at 0x2880CA8BF10>
+
+
+3,
+
+KEEP
+CALM
+
+AND
+merhaba
+nasilsin ?
+
+******************************************
+resim2 copy.png,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=600x700 at 0x2880CA8BFD0>
+
+
+3,
+
+KEEP
+CALM
+
+AND
+merhaba
+nasilsin ?
+
+******************************************
+resim2.png,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=600x700 at 0x2880CAC8100>
+
+
+3,
+
+KEEP
+CALM
+
+AND
+merhaba
+nasilsin ?
+

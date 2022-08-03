@@ -1,0 +1,14 @@
+#######################################1 image files found.#######################################
+******************************************
+resim2.png,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=600x700 at 0x20E0D9B17B0>
+
+
+3,
+
+KEEP
+CALM
+
+AND
+merhaba
+nasilsin ?
+
